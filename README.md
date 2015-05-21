@@ -1,5 +1,5 @@
 # ios-resources
-List of links i found useful while stating with ios
+List of links i found useful while starting with ios
 
 ## Documentation
 
